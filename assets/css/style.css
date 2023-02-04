@@ -181,6 +181,7 @@ header {
   z-index: 4;
 }
 
+
 header.active { top: 0; }
 
 header .container {
@@ -940,7 +941,7 @@ header .container {
     display: block;
     width: 100%;
     padding-top: 100%;
-    background: url("../images/hero-banner.png") no-repeat;
+    background: url("../images/hero-banner.jpg") no-repeat;
     background-size: cover;
     border-radius: 100px;
   }
